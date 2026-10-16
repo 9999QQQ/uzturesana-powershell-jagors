@@ -1,0 +1,15 @@
+﻿
+Name              Id WorkingSet
+----              -- ----------
+chrome         26744  392683520
+explorer       10348  407142400
+MsMpEng         6084  424034304
+chrome         21416  473153536
+chrome         19024  475688960
+chrome         25348  480198656
+steamwebhelper 20352  634548224
+Telegram       15124  692183040
+chrome         26328 1119416320
+Discord         8200 1274810368
+
+

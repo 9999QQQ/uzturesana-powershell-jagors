@@ -1,0 +1,3685 @@
+﻿
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 0
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 4
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 236
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 280
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 920
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 1340
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 1424
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 1432
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 1528
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 1552
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 1596
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 1604
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 1740
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 1772
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 1776
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 1872
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 1928
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 1984
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 1284
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 1316
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 2116
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 2144
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 2152
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 2160
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 2168
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 2176
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 2280
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 2344
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 2448
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 2540
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 2548
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 2616
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 2632
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3000
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3024
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3176
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3284
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3292
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3372
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3408
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3424
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3444
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3544
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3552
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3632
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3640
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3716
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3744
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3752
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3852
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3888
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 4016
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3688
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 4216
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 4388
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 4412
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 4628
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 4732
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5008
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5032
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5148
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5156
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5364
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5396
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5592
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5692
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5868
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5876
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5884
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5892
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5900
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5908
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5976
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 6076
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 6084
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5132
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5136
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5208
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 2948
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3252
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3244
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5992
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 5988
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 6156
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 6248
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 6428
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 6580
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 6068
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 7256
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 7608
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 7692
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 7708
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 7996
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 8184
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 8624
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 8844
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 8984
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 9116
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Microsoft GameInput\x64\GameInputRedistService.exe
+ProcessId        : 9568
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 9640
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\system32\sihost.exe
+ProcessId        : 9764
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\system32\svchost.exe
+ProcessId        : 9884
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\system32\svchost.exe
+ProcessId        : 9892
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\system32\svchost.exe
+ProcessId        : 9940
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\system32\svchost.exe
+ProcessId        : 9976
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 10184
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 9340
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 9440
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 9860
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\system32\taskhostw.exe
+ProcessId        : 9416
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\Explorer.EXE
+ProcessId        : 10348
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 10680
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+ProcessId        : 10800
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 10912
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\system32\svchost.exe
+ProcessId        : 11172
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.26042.110.0_x64__cw5n1h2txyewy\CrossDevi
+                   ceService.exe
+ProcessId        : 11480
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 11668
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+ProcessId        : 11844
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHos
+                   t.exe
+ProcessId        : 11852
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 11976
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_526.21100.40.0_x64__cw5n1h2txyewy
+                   \WidgetBoard.exe
+ProcessId        : 12004
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 12160
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Windows\System32\RuntimeBroker.exe
+ProcessId        : 12368
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Windows\System32\oobe\UserOOBEBroker.exe
+ProcessId        : 12556
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\system32\svchost.exe
+ProcessId        : 12648
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 12104
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\EdgeWebView\Application\155.0.4283.45\msedgewebview2.exe
+ProcessId        : 13024
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\EdgeWebView\Application\155.0.4283.45\msedgewebview2.exe
+ProcessId        : 13500
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+ProcessId        : 14128
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 14196
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+ProcessId        : 14320
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+ProcessId        : 13400
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\EdgeWebView\Application\155.0.4283.45\msedgewebview2.exe
+ProcessId        : 13512
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\EdgeWebView\Application\155.0.4283.45\msedgewebview2.exe
+ProcessId        : 12472
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\EdgeWebView\Application\155.0.4283.45\msedgewebview2.exe
+ProcessId        : 12936
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\EdgeWebView\Application\155.0.4283.45\msedgewebview2.exe
+ProcessId        : 14576
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Windows\System32\RuntimeBroker.exe
+ProcessId        : 15248
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 1620
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 15680
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 15724
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 13552
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 16196
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\NVIDIA Corporation\NVIDIA App\CEF\NVIDIA Overlay.exe
+ProcessId        : 15980
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\NVIDIA Corporation\NVIDIA App\CEF\NVIDIA Overlay.exe
+ProcessId        : 15644
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\NVIDIA Corporation\NVIDIA App\CEF\NVIDIA Overlay.exe
+ProcessId        : 11516
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\NVIDIA Corporation\NVIDIA App\CEF\NVIDIA Overlay.exe
+ProcessId        : 16392
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\NVIDIA Corporation\NVIDIA App\CEF\NVIDIA Overlay.exe
+ProcessId        : 17000
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 17088
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Windows\System32\RuntimeBroker.exe
+ProcessId        : 8760
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+ProcessId        : 17452
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Windows\System32\SecurityHealthSystray.exe
+ProcessId        : 17844
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 17884
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 18048
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_2c6939fa3ca49312\RtkAudUServ
+                   ice64.exe
+ProcessId        : 18148
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\DeepCool\DeepCool.exe
+ProcessId        : 18216
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\DeepCool\DeepCool.exe
+ProcessId        : 17516
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\DeepCool\DeepCool.exe
+ProcessId        : 8156
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\DeepCool\DeepCool.exe
+ProcessId        : 15524
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\DeepCool\DeepCool.exe
+ProcessId        : 2816
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\DeepCool\DeepCool.exe
+ProcessId        : 18000
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\WindowsApps\40459File-New-Project.EarTrumpet_2.3.0.0_x86__1sdd7yawvg6ne\EarTrumpet\
+                   EarTrumpet.exe
+ProcessId        : 18588
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\WindowsApps\28017CharlesMilette.TranslucentTB_2026.2.0.0_x64__v826wp6bftszj\Translu
+                   centTB.exe
+ProcessId        : 18908
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\system32\ApplicationFrameHost.exe
+ProcessId        : 18948
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\WindowsApps\33C30B79.HyperXNGenuity_5.38.0.0_x64__0a78dr3hq0pvt\Assets\Native\NGenu
+                   ity2Helper.exe
+ProcessId        : 7060
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Windows\System32\RuntimeBroker.exe
+ProcessId        : 9380
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.19.0_x64__8wekyb3d8bbwe\WidgetServ
+                   ice\WidgetService.exe
+ProcessId        : 6820
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\WindowsApps\Microsoft.StartExperiencesApp_1.380.2.0_x64__8wekyb3d8bbwe\MicrosoftSta
+                   rtFeedProvider\MicrosoftStartFeedProvider.exe
+ProcessId        : 8876
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 9724
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 19052
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3420
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 6256
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 6048
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 10400
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Users\Vladislav\AppData\Local\Discord\app-1.0.9262\Discord.exe
+ProcessId        : 9852
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Users\Vladislav\AppData\Local\Discord\app-1.0.9262\Discord.exe
+ProcessId        : 15288
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Users\Vladislav\AppData\Local\Discord\app-1.0.9262\Discord.exe
+ProcessId        : 2128
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Users\Vladislav\AppData\Local\Discord\app-1.0.9262\Discord.exe
+ProcessId        : 9616
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Users\Vladislav\AppData\Local\Discord\app-1.0.9262\Discord.exe
+ProcessId        : 8200
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Users\Vladislav\AppData\Local\Discord\app-1.0.9262\Discord.exe
+ProcessId        : 9064
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\system32\svchost.exe
+ProcessId        : 6100
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 3196
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Steam\steam.exe
+ProcessId        : 6980
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe
+ProcessId        : 3668
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 19472
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe
+ProcessId        : 19512
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe
+ProcessId        : 20016
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe
+ProcessId        : 20028
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe
+ProcessId        : 20132
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe
+ProcessId        : 20352
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 20540
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+ProcessId        : 5168
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Windows\System32\RuntimeBroker.exe
+ProcessId        : 6096
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\uus\AMD64\MoNotificationUx.exe
+ProcessId        : 3268
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 10124
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 12656
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\WindowsApps\Microsoft.Edge.GameAssist_1.0.4019.0_x64__8wekyb3d8bbwe\EdgeGameAssist.
+                   exe
+ProcessId        : 12388
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+ProcessId        : 12604
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+ProcessId        : 19768
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Windows\System32\RuntimeBroker.exe
+ProcessId        : 13364
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+ProcessId        : 9796
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+ProcessId        : 16776
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+ProcessId        : 9968
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+ProcessId        : 2964
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+ProcessId        : 19116
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+ProcessId        : 18328
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\WindowsApps\Microsoft.GamingApp_2606.1001.29.0_x64__8wekyb3d8bbwe\XboxPcAppFT.exe
+ProcessId        : 16956
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\EdgeWebView\Application\155.0.4283.45\msedgewebview2.exe
+ProcessId        : 10504
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\EdgeWebView\Application\155.0.4283.45\msedgewebview2.exe
+ProcessId        : 19132
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\EdgeWebView\Application\155.0.4283.45\msedgewebview2.exe
+ProcessId        : 21632
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\EdgeWebView\Application\155.0.4283.45\msedgewebview2.exe
+ProcessId        : 21640
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\EdgeWebView\Application\155.0.4283.45\msedgewebview2.exe
+ProcessId        : 21696
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\EdgeWebView\Application\155.0.4283.45\msedgewebview2.exe
+ProcessId        : 21848
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\EdgeWebView\Application\155.0.4283.45\msedgewebview2.exe
+ProcessId        : 22196
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+ProcessId        : 22892
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Windows\System32\RuntimeBroker.exe
+ProcessId        : 23084
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Users\Vladislav\AppData\Roaming\Telegram Desktop\Telegram.exe
+ProcessId        : 15124
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 15416
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 9356
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 11204
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 4464
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 14392
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 21184
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 17756
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 20952
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 4012
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 25428
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 24636
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 25348
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 25864
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 21416
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 25996
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 25928
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\system32\svchost.exe
+ProcessId        : 30048
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 30192
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Windows\System32\ShellHost.exe
+ProcessId        : 28752
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe
+ProcessId        : 29648
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe
+ProcessId        : 29968
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 26744
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 13920
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 28100
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 10296
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 26328
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 28716
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 23724
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 19024
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\system32\svchost.exe
+ProcessId        : 7904
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 5708
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ProcessId        : 29480
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\WINDOWS\system32\conhost.exe
+ProcessId        : 28848
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.24.12741.0_x64__8wekyb3d8bbwe\OpenConsole.e
+                   xe
+ProcessId        : 30692
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.24.12741.0_x64__8wekyb3d8bbwe\WindowsTermin
+                   al.exe
+ProcessId        : 27696
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 29328
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 3480
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 29048
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\Google\Chrome\Application\chrome.exe
+ProcessId        : 4964
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Program Files\WindowsApps\Microsoft.ScreenSketch_11.2607.23.0_x64__8wekyb3d8bbwe\SnippingTool\Sni
+                   ppingTool.exe
+ProcessId        : 19412
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : C:\Windows\System32\smartscreen.exe
+ProcessId        : 28076
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 240
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 9652
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 24468
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 27848
+PSComputerName   : 
+
+__GENUS          : 2
+__CLASS          : Win32_Process
+__SUPERCLASS     : 
+__DYNASTY        : 
+__RELPATH        : 
+__PROPERTY_COUNT : 2
+__DERIVATION     : {}
+__SERVER         : 
+__NAMESPACE      : 
+__PATH           : 
+ExecutablePath   : 
+ProcessId        : 10048
+PSComputerName   : 
+
+
+

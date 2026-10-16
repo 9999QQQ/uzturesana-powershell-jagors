@@ -1,0 +1,16 @@
+﻿
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Stopped  amd3dvcacheSvc     AMD 3D V-Cache Performance Optimize...
+Stopped  asus               Служба ASUS Update (asus)             
+Stopped  AsusROGLSLService  AsusROGLSLService Download ROGLSLoader
+Stopped  AsusUpdateCheck    AsusUpdateCheck                       
+Stopped  edgeupdate         Microsoft Edge Update Service (edge...
+Stopped  GBTECService       GBTECService                          
+Stopped  GoogleUpdaterIn... Внутренний сервис Google Updater (G...
+Stopped  GoogleUpdaterSe... Сервис Google Updater (GoogleUpdate...
+Stopped  MapsBroker         Диспетчер скачанных карт              
+Stopped  sppsvc             Защита программного обеспечения       
+Stopped  StiSvc             Служба загрузки изображений Windows...
+
+

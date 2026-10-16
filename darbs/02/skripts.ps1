@@ -1,0 +1,1 @@
+Get-Process | Sort-Object -Property WorkingSet | Select-Object -Last 10 | Select-Object -Property Name, Id, WorkingSet

@@ -1,0 +1,3 @@
+﻿1. veida laiks (milisekundes): 7.4878
+2. veida laiks (milisekundes): 547.8647
+Secinajums: Atraks bija pirmais veids (Get-Service).

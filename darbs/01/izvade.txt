@@ -1,0 +1,6 @@
+﻿Datora nosaukums: ASUS-090725
+Operetajsistemas nosaukums: Майкрософт Windows 11 Pro
+Buvejuma numurs: 26200
+PowerShell versija: 5.1.26100.9444
+Datums un laiks: 10/16/2026 22:33:30
+Procesu skaits: 262

@@ -1,0 +1,5 @@
+﻿Procesu skaits: 263
+Darbojas servisi: 123
+Aptureeti servisi: 188
+Kludas zurnala (48h): 236
+Briva vieta C: diska: 539.75 GB
